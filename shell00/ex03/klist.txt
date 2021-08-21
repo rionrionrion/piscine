@@ -1,0 +1,5 @@
+Credentials cache: API:D0D855EE-3DB5-492F-AF49-804DF251A5A2
+        Principal: rmanabe@42TOKYO.JP
+
+  Issued                Expires               Principal
+Feb 18 13:49:06 2021  Feb 18 23:49:06 2021  krbtgt/42TOKYO.JP@42TOKYO.JP
